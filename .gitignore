@@ -6,3 +6,5 @@ DonkeyKong/Debug/
 DonkeyKong/x64/
 *.vcxproj*
 a.out
+
+/out
